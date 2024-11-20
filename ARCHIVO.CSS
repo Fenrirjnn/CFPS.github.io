@@ -1,0 +1,166 @@
+@charset "utf-8";
+.jumbotron.text-center.mt-2 img {
+    margin-right: -720px;
+    margin-bottom: -77px;
+    margin-top: -339px;
+
+}
+
+.jumbotron.text-center.mt-2 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 61px;
+    background-image: url(../../IMAGENES%20HALLOWEEN/PNG/Mesa%20de%20trabajo%201.png);
+    background-attachment: fixed;
+
+
+
+
+}
+#carouselExampleIndicators1 {
+    padding-top: 40px;
+    padding-bottom: 48px;
+
+
+}
+
+.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    margin-bottom: 99px;
+}
+body section {
+    margin-bottom: 50px;
+    margin-top: 68px;
+    color: #FFFFFF;
+}
+.Informacion {
+    color: #000000;
+    margin-top: 164px;
+    margin-bottom: 169px;
+}
+.Videos {
+    color: #000000;
+}
+.Soundclowd {
+    color: #000000;
+}
+.Intro {
+    padding-right: 0px;
+    width: auto;
+
+}
+
+/* Estilo general del carrusel */
+.carousel {
+    position: relative;
+    width: 80px;
+    overflow: hidden; /* Oculta el contenido que sale del contenedor */
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    height: 80px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Contenedor de las diapositivas */
+.carousel-track {
+    display: flex; /* Alinea los elementos horizontalmente */
+    transition: transform 0.5s ease-in-out; /* Suaviza el desplazamiento */
+}
+
+/* Cada cuadro de información */
+.carousel-item {
+    flex: 0 0 100%; /* Ocupa el 100% del ancho del carrusel */
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-right: 1px solid #ddd;
+    font-size: 1.2rem;
+}
+
+/* Botones de navegación */
+.carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.carousel-btn.prev {
+    left: 10px;
+}
+
+.carousel-btn.next {
+    right: 10px;
+}
+.carousel .carousel-btn.prev {
+
+}
+.carousel {
+    width: 1516px;
+    height: 271px;
+
+}
+.jumbotron.text-center.mt-2 .container .row {
+    margin-bottom: -25px;
+    margin-top: 240px;
+
+
+
+
+
+
+}
+.Delinicio {
+    margin-top: 219px;
+}
+.Quehacemos {
+    margin-top: -34px;
+    margin-bottom: 41px;
+    text-align: center;
+}
+.list-unstyled .media .media-body {
+    margin-right: -107px;
+    margin-top: 26px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+
+}
+.list-unstyled .media .media-body.Compmusicl {
+    margin-left: -67px;
+    margin-bottom: 6px;
+    margin-top: 21px;
+}
+
+
+
+.container.mt-2 .row .col-md-4.col-12 {
+
+
+
+}
+.Informacion .container.mt-2 {
+    padding-left: 0px;
+    max-width: 1484px;
+
+
+}
+.Compmusicl {
+}
+.Opneblina {
+    padding-right: 0px;
+    margin-right: -166px;
+    margin-left: 182px;
+    margin-top: 43px;
+}
+.extraepico {
+    margin-top: 51px;
+}
+
